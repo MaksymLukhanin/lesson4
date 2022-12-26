@@ -1,0 +1,69 @@
+* {
+  box-sizing: border-box;
+}
+
+.conteiner {
+  width: 1280px;
+  height: 100vw;
+  margin: 0 auto;
+  padding: 0;
+  text-align: center;
+}
+
+.wrapper {
+  margin: 20px;
+}
+
+a {
+  text-decoration: none;
+}
+
+table {
+  width: 75%;
+  height: 300px;
+  border: 2px solid black;
+  border-spacing: 0;
+  background: center;
+  margin: auto;
+  margin-top: 50px;
+}
+
+td {
+  width: 33.33%;
+  border: 1px solid black;
+  height: 50px;
+}
+
+.h-200 {
+  height: 200px;
+}
+
+.w-90 {
+  width: 90%;
+}
+
+.h-250 {
+  height: 250px;
+}
+
+.w-28 {
+  width: 28%;
+}
+
+.w-40 {
+  width: 40%;
+}
+
+.w-60 {
+  width: 60%;
+}
+
+.w-90 {
+  width: 90%;
+}
+
+.w-80 {
+  width: 80%;
+  height: 200px;
+  margin: 15px auto 25px auto;
+}
